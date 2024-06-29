@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "name": "redmi note12",
+      "price": "2000",
+      "category": "mobile",
+      "id": "1"
+    },
+    {
+      "name": "vivo",
+      "price": 16000,
+      "category": "mobile",
+      "id": "2"
+    },
+    {
+      "name": "oppo",
+      "price": 18000,
+      "category": "mobile",
+      "id": "3"
+    }
+  ],
+  "Users": [
+    {
+      "name": "abc",
+      "email": "abc@gmail",
+      "gender": "m",
+      "id": "1"
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@gmail",
+      "gender": "f",
+      "id": "2"
+    },
+    {
+      "name": "mno",
+      "email": "mno@gmail",
+      "gender": "m",
+      "id": "3"
+    }
+  ]
+}
